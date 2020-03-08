@@ -3066,4 +3066,4 @@ client.on("reachLimit", (limit)=> {
          
          
          
-client.login(process.env.BOT_TOKEN)
+
