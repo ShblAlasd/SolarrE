@@ -1151,7 +1151,7 @@ message.channel.send(`**:white_check_mark: ${user.tag} banned from the server ! 
 
 }
 });
-client.login('lGi0by8ABvYfHCvNVVWzQm-NKrAvVImv');
+client.login('Njg2MjEyNDExNTkzOTgxOTUz.XmUGmQ.ktygwCkZHy8v-3ERcnBBJN2aBuo');
 client.on('message', message => {
        if(message.content === prefix + "mutechannel") {
                            if(!message.channel.guild) return message.reply('** This command only for servers**');
