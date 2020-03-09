@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "node-gyp": "6.1.0",
     "and": "0.0.3",
     "anti-spam": "^0.2.7",
     "array-sort": "^1.0.0",
